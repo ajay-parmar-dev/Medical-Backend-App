@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Initialize-project-setup",
+    "dev",
+    "main"
+  ],
+  "parent": {
+    "Initialize-project-setup": "main",
+    "dev": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "Initialize-project-setup",
+    "dev"
+  ]
+}
